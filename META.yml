@@ -43,6 +43,7 @@ requires:
   MooseX::Types: 0.25
   MooseX::Types::IO::All: 0.03
   MooseX::Types::Moose: 0.25
+  MooseX::Types::Path::Class: 0.05
   Path::Class::Dir: 0.23
   Text::Extract::Word: 0.02
   Try::Tiny: 0.09
@@ -55,4 +56,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/amiri/MSWord-ToHTML.git
-version: 0.001
+version: 0.002

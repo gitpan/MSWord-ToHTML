@@ -2,7 +2,7 @@
 abstract: 'Take old or new Word files and spit out extremely clean HTML'
 author:
   - 'Amiri Barksdale, <amiri@roosterpirates.com>'
-  - 'Amiri Barksdale <amiri@roosterpirates.com>'
+  - 'Amiri Barksdale <amiribarksdale@gmail.com>'
 build_requires:
   ExtUtils::MakeMaker: 6.59
   Test::Most: 0.23
@@ -58,4 +58,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/amiri/MSWord-ToHTML.git
-version: 0.006
+version: 0.007

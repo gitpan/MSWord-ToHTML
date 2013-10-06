@@ -1,4 +1,7 @@
 package MSWord::ToHTML::DocX;
+{
+  $MSWord::ToHTML::DocX::VERSION = '0.008';
+}
 
 use Moose;
 use namespace::autoclean;

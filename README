@@ -5,10 +5,10 @@ NAME
 
 NOTICE
     Because of the PITA involved in processing Word files, I have punted
-    most of the work to Abiword <http://www.abisource.com/> and tidy
+    most of the work to Libreoffice <http://www.libreoffice.org/> and tidy
     <http://tidy.sourceforge.net/>.
 
-    Which means that you must have the binary programs tidy and abiword
+    Which means that you must have the binary programs tidy and libreoffice
     installed.
 
 SYNOPSIS
@@ -77,10 +77,10 @@ METHODS
           my @image_files = $writing_html->images->children;
 
 AUTHOR
-    Amiri Barksdale, <amiri@roosterpirates.com>
+    Amiri Barksdale, <amiribarksdale@gmail.com>
 
 COPYRIGHT
-    Copyright (c) 2012 the MSWord::ToHTML "AUTHOR" listed above.
+    Copyright (c) 2013 the MSWord::ToHTML "AUTHOR" listed above.
 
 LICENSE
     This library is free software; you can redistribute it and/or modify it

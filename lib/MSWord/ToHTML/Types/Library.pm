@@ -1,4 +1,7 @@
 package MSWord::ToHTML::Types::Library;
+{
+  $MSWord::ToHTML::Types::Library::VERSION = '0.008';
+}
 
 use namespace::autoclean;
 use strictures 1;

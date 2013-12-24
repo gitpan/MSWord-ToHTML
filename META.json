@@ -4,7 +4,7 @@
       "Amiri Barksdale <amiribarksdale@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300039, CPAN::Meta::Converter version 2.132661",
+   "generated_by" : "Dist::Zilla version 4.300039, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -75,6 +75,6 @@
          "web" : "https://github.com/amiri/MSWord-ToHTML"
       }
    },
-   "version" : "0.008"
+   "version" : "0.009"
 }
 

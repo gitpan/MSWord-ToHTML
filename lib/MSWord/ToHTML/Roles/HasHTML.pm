@@ -1,6 +1,6 @@
 package MSWord::ToHTML::Roles::HasHTML;
 {
-  $MSWord::ToHTML::Roles::HasHTML::VERSION = '0.008';
+  $MSWord::ToHTML::Roles::HasHTML::VERSION = '0.009';
 }
 
 use Moose::Role;

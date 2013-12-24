@@ -1,6 +1,6 @@
 package MSWord::ToHTML::HTML;
 {
-  $MSWord::ToHTML::HTML::VERSION = '0.008';
+  $MSWord::ToHTML::HTML::VERSION = '0.009';
 }
 
 use Moose;

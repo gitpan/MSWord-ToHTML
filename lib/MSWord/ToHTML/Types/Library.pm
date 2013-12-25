@@ -1,6 +1,6 @@
 package MSWord::ToHTML::Types::Library;
 {
-  $MSWord::ToHTML::Types::Library::VERSION = '0.009';
+  $MSWord::ToHTML::Types::Library::VERSION = '0.010';
 }
 
 use namespace::autoclean;

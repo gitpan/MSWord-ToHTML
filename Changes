@@ -1,5 +1,10 @@
 Revision history for MSWord-ToHTML
 
+0.010     2013-12-24
+  - Not only footnotes need to be renamed, but
+    StarWriter endnotes as well, in order not to
+    have colliding names/ids.
+
 0.009     2013-12-24
   - Remove Word file that cannot be expanded on
     Windows, change test counts accordingly. Thanks
